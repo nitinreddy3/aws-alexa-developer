@@ -1,0 +1,3 @@
+# Exclude node modules
+node_modules/*
+
